@@ -4,7 +4,7 @@ Welcome to the Power Rangers Endless Runner Game project repository! This projec
 
 
 ## YouTube Demo
-[Watch the Power Rangers Endless Runner Game in Action!](https://youtu.be/IkeQ1cdBKlw)ect details and requirements.
+[Watch the Power Rangers Endless Runner Game in Action!](https://youtu.be/IkeQ1cdBKlw)
 
 ### Gameplay Overview
 - **Player Control**: Navigate the game from a third-person perspective, steering left and right to change lanes.
