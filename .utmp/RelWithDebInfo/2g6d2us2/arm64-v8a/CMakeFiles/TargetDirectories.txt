@@ -1,0 +1,5 @@
+C:/Users/mahno/miniProject/.utmp/RelWithDebInfo/2g6d2us2/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/mahno/miniProject/.utmp/RelWithDebInfo/2g6d2us2/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/mahno/miniProject/.utmp/RelWithDebInfo/2g6d2us2/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/mahno/miniProject/.utmp/RelWithDebInfo/2g6d2us2/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/mahno/miniProject/.utmp/RelWithDebInfo/2g6d2us2/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
