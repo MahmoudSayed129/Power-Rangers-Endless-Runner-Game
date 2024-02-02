@@ -2,6 +2,8 @@
 
 Welcome to the Power Rangers Endless Runner Game project repository! This project is a simple yet exciting endless runner game inspired by the popular Power Rangers series. In this game, players control a sphere that automatically moves forward on an infinite floor, encountering various obstacles and orbs while striving to achieve the highest score.
 
+<img src="./4.png" alt="">
+
 
 ## YouTube Demo
 [Watch the Power Rangers Endless Runner Game in Action!](https://youtu.be/IkeQ1cdBKlw)
